@@ -14,3 +14,7 @@ h1 {
 p {
   text-align: center;
 }
+
+.goals {
+  font-weight: bold;
+}
